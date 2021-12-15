@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+.modal{
+    position: absolute;
+    height: 500px;
+    width: 500px;
+    background: linear-gradient(to right, #0F2027, #203A43, #2C5364);
+    z-index: 99;
+    margin-left: auto;
+    margin-right: auto;
+    top: 20%;
+    left: 0;
+    right: 0;
+
+   
+   
+}
+.modal_content{
+    position: relative;
+}
+.Heading{
+    text-align: center;
+    margin: 10px 0px;
+    font-size: 1.5em;
+    font-family: 'Roboto Mono', monospace
+}
+.close{
+    cursor: pointer;
+    display: inline-block;
+    position: absolute;
+    padding: 3px 10px;
+    border: 1px solid black;
+    color: black;
+    background: white;
+    border-radius: 50px;
+    top: 0;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size: 15px;
+    transition: all .2s ease-in-out;
+}
+.close:hover{
+    background: rgb(100, 100, 100);
+    color: white
+}
+.profilePic{
+    height: 200px;
+}
+.info-content{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+    gap: 10px;
+}
+.flex{
+    display: inline-flex;
+    width: 100%;
+    justify-content: center;
+}
+.pic_border{
+    display: inline-flex;
+    justify-content: center;
+    background: white;
+    border: 2px solid black;
+}
+.Info{
+    font-size: 1.5em;
+    margin: 0;
+    font-family: 'Roboto Mono', monospace
+}

@@ -1,0 +1,25 @@
+.Search_bar{
+    position: absolute;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    
+    z-index: 99;
+    height: 90%;
+    width: 56%;
+    background: #262035;
+    color: white;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    
+
+}
+.close2{
+    top: 0%;
+    left: 0%;
+}
+.search2{
+    margin-top: 30px;
+}
