@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/FunkyBots/static/css/main.b395fed7.chunk.css",
+    "main.js": "/FunkyBots/static/js/main.874edc02.chunk.js",
+    "main.js.map": "/FunkyBots/static/js/main.874edc02.chunk.js.map",
+    "runtime-main.js": "/FunkyBots/static/js/runtime-main.9efda0c7.js",
+    "runtime-main.js.map": "/FunkyBots/static/js/runtime-main.9efda0c7.js.map",
+    "static/js/2.6faf9a0f.chunk.js": "/FunkyBots/static/js/2.6faf9a0f.chunk.js",
+    "static/js/2.6faf9a0f.chunk.js.map": "/FunkyBots/static/js/2.6faf9a0f.chunk.js.map",
+    "index.html": "/FunkyBots/index.html",
+    "static/css/main.b395fed7.chunk.css.map": "/FunkyBots/static/css/main.b395fed7.chunk.css.map",
+    "static/js/2.6faf9a0f.chunk.js.LICENSE.txt": "/FunkyBots/static/js/2.6faf9a0f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9efda0c7.js",
+    "static/js/2.6faf9a0f.chunk.js",
+    "static/css/main.b395fed7.chunk.css",
+    "static/js/main.874edc02.chunk.js"
+  ]
+}
