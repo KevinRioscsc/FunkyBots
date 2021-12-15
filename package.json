@@ -1,10 +1,11 @@
 {
   "name": "practice_react",
-  "homepage": "https://github.com/KevinRioscsc/Funky-Bots.git",
+  "homepage": "https://KevinRioscsc.github.io/Funky-Bots",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "cra-template": "1.1.2",
+    "gh-pages": "^3.2.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
@@ -16,7 +17,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy":"gh-pages -d build"
+    "deploy": "gh-pages -b master -d build"
   },
   "eslintConfig": {
     "extends": [
